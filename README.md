@@ -31,13 +31,13 @@
 
 ## Github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khusinov&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khusinov&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khusinov&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akhmedov&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhmedov&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmedov&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
 
 ## Visitors count
 
-<img src="https://profile-counter.glitch.me/Khusinov/count.svg" />## Hi there 👋
+<img src="https://profile-counter.glitch.me/Akhmedov/count.svg" />## Hi there 👋
 
 <!--
 **Yusufjon1224/Yusufjon1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
