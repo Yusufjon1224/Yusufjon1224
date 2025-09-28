@@ -6,19 +6,19 @@
   
 ## Connect me
 
-<a href="https://telegram.me/Yusufjon1224">
+<a href="https://telegram.me/y_akhmedovff">
   <img src="https://img.shields.io/badge/blog-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/khusinov/">
+<a href="https://www.linkedin.com/in/akhmedov/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="mailto:shaxriyorqin@gmail.com">
+<a href="mailto:axmedovy393@gmail.com">
   <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
 <a href="https://leetcode.com/u/yusufjon_axmedov/">
   <img src="https://img.shields.io/badge/medium-FFC017?style=for-the-badge&logo=medium&logoColor=white" />    
 </a>&nbsp;
-<a href="https://telegram.me/Yusufjon1224">
+<a href="https://telegram.me/y_akhmedovff">
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 
