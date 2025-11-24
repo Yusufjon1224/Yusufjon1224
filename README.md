@@ -24,20 +24,23 @@
 
 ## Programming languages
 
-<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Dart-%230077B5?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/SQL-b33939?style=for-the-badge&logo=sql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Dart-0077B5?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/SQL-b33939?style=for-the-badge&logo=database&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
+
 
 ## Github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akhmedov&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhmedov&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmedov&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yusufjon1224&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yusufjon1224&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufjon1224&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,scss,xml" />
 
 ## Visitors count
 
-<img src="https://profile-counter.glitch.me/Akhmedov/count.svg" />## Hi there 👋
+<img src="https://profile-counter.glitch.me/Yusufjon1224/count.svg" />
+
 
 <!--
 **Yusufjon1224/Yusufjon1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
